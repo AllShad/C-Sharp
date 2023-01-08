@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\bin\Debug\net7.0\verificaSenha.exe
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\bin\Debug\net7.0\verificaSenha.deps.json
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\bin\Debug\net7.0\verificaSenha.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\bin\Debug\net7.0\verificaSenha.dll
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\bin\Debug\net7.0\verificaSenha.pdb
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.dll
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\refint\verificaSenha.dll
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.pdb
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\verificaSenha.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\verificaSenha\verificaSenha\obj\Debug\net7.0\ref\verificaSenha.dll

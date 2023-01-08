@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\bin\Debug\net6.0\alfabeto.exe
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\bin\Debug\net6.0\alfabeto.deps.json
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\bin\Debug\net6.0\alfabeto.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\bin\Debug\net6.0\alfabeto.dll
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\bin\Debug\net6.0\alfabeto.pdb
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.dll
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\refint\alfabeto.dll
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.pdb
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\alfabeto.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\alfabeto\alfabeto\obj\Debug\net6.0\ref\alfabeto.dll

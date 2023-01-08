@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\bin\Debug\net7.0\mediaFilme.exe
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\bin\Debug\net7.0\mediaFilme.deps.json
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\bin\Debug\net7.0\mediaFilme.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\bin\Debug\net7.0\mediaFilme.dll
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\bin\Debug\net7.0\mediaFilme.pdb
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.dll
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\refint\mediaFilme.dll
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.pdb
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\mediaFilme.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\mediaFilme\mediaFilme\obj\Debug\net7.0\ref\mediaFilme.dll

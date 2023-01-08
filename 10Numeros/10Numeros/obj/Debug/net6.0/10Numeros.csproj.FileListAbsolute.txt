@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\bin\Debug\net6.0\10Numeros.exe
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\bin\Debug\net6.0\10Numeros.deps.json
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\bin\Debug\net6.0\10Numeros.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\bin\Debug\net6.0\10Numeros.dll
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\bin\Debug\net6.0\10Numeros.pdb
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.dll
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\refint\10Numeros.dll
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.pdb
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\10Numeros.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\10Numeros\10Numeros\obj\Debug\net6.0\ref\10Numeros.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\bin\Debug\net6.0\AtvDados.exe
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\bin\Debug\net6.0\AtvDados.deps.json
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\bin\Debug\net6.0\AtvDados.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\bin\Debug\net6.0\AtvDados.dll
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\bin\Debug\net6.0\AtvDados.pdb
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.dll
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\refint\AtvDados.dll
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.pdb
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\AtvDados.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\AtvDados\AtvDados\obj\Debug\net6.0\ref\AtvDados.dll
