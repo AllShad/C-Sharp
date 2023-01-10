@@ -5,3 +5,4 @@
  - Média de opinião
  - Lançamento de dados
  - Ordenação de vetor
+ - Controle básico de estoque
