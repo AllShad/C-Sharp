@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\bin\Debug\net7.0\provaAlunos.exe
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\bin\Debug\net7.0\provaAlunos.deps.json
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\bin\Debug\net7.0\provaAlunos.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\bin\Debug\net7.0\provaAlunos.dll
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\bin\Debug\net7.0\provaAlunos.pdb
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.dll
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\refint\provaAlunos.dll
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.pdb
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\provaAlunos.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\provaAlunos\provaAlunos\obj\Debug\net7.0\ref\provaAlunos.dll
