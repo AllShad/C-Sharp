@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj": {}
+    "C:\\workspace\\C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj": {
+    "C:\\workspace\\C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj",
+        "projectUniqueName": "C:\\workspace\\C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj",
         "projectName": "mediaFilme",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj",
+        "projectPath": "C:\\workspace\\C#\\mediaFilme\\mediaFilme\\mediaFilme.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\mediaFilme\\mediaFilme\\obj\\",
+        "outputPath": "C:\\workspace\\C#\\mediaFilme\\mediaFilme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

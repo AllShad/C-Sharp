@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj": {}
+    "C:\\workspace\\C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj": {
+    "C:\\workspace\\C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectUniqueName": "C:\\workspace\\C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj",
         "projectName": "ControleDeEstoque",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectPath": "C:\\workspace\\C#\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\ControleDeEstoque\\ControleDeEstoque\\obj\\",
+        "outputPath": "C:\\workspace\\C#\\ControleDeEstoque\\ControleDeEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

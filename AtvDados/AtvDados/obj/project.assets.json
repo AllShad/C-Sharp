@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\AtvDados\\AtvDados\\AtvDados.csproj",
+      "projectUniqueName": "C:\\workspace\\C#\\AtvDados\\AtvDados\\AtvDados.csproj",
       "projectName": "AtvDados",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\AtvDados\\AtvDados\\AtvDados.csproj",
+      "projectPath": "C:\\workspace\\C#\\AtvDados\\AtvDados\\AtvDados.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\AtvDados\\AtvDados\\obj\\",
+      "outputPath": "C:\\workspace\\C#\\AtvDados\\AtvDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\10Numeros\\10Numeros\\10Numeros.csproj": {}
+    "C:\\workspace\\C#\\10Numeros\\10Numeros\\10Numeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\VS C#\\10Numeros\\10Numeros\\10Numeros.csproj": {
+    "C:\\workspace\\C#\\10Numeros\\10Numeros\\10Numeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\10Numeros\\10Numeros\\10Numeros.csproj",
+        "projectUniqueName": "C:\\workspace\\C#\\10Numeros\\10Numeros\\10Numeros.csproj",
         "projectName": "10Numeros",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\10Numeros\\10Numeros\\10Numeros.csproj",
+        "projectPath": "C:\\workspace\\C#\\10Numeros\\10Numeros\\10Numeros.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\10Numeros\\10Numeros\\obj\\",
+        "outputPath": "C:\\workspace\\C#\\10Numeros\\10Numeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

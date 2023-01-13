@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\alfabeto\\alfabeto\\alfabeto.csproj",
+      "projectUniqueName": "C:\\workspace\\C#\\alfabeto\\alfabeto\\alfabeto.csproj",
       "projectName": "alfabeto",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\alfabeto\\alfabeto\\alfabeto.csproj",
+      "projectPath": "C:\\workspace\\C#\\alfabeto\\alfabeto\\alfabeto.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\alfabeto\\alfabeto\\obj\\",
+      "outputPath": "C:\\workspace\\C#\\alfabeto\\alfabeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

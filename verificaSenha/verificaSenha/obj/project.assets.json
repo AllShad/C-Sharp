@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\VS C#\\verificaSenha\\verificaSenha\\verificaSenha.csproj",
+      "projectUniqueName": "C:\\workspace\\C#\\verificaSenha\\verificaSenha\\verificaSenha.csproj",
       "projectName": "verificaSenha",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\verificaSenha\\verificaSenha\\verificaSenha.csproj",
+      "projectPath": "C:\\workspace\\C#\\verificaSenha\\verificaSenha\\verificaSenha.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\VS C#\\verificaSenha\\verificaSenha\\obj\\",
+      "outputPath": "C:\\workspace\\C#\\verificaSenha\\verificaSenha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
