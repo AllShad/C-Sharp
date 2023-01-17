@@ -6,3 +6,4 @@
  - Lançamento de dados
  - Ordenação de vetor
  - Controle básico de estoque
+ - Verificação da resposta de 5 alunos diferentes a uma prova de 10 questões
