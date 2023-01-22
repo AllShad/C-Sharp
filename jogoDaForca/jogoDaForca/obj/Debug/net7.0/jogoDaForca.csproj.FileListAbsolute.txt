@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\bin\Debug\net7.0\jogoDaForca.exe
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\bin\Debug\net7.0\jogoDaForca.deps.json
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\bin\Debug\net7.0\jogoDaForca.runtimeconfig.json
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\bin\Debug\net7.0\jogoDaForca.dll
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\bin\Debug\net7.0\jogoDaForca.pdb
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.dll
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\refint\jogoDaForca.dll
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.pdb
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\jogoDaForca.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\VS C#\jogoDaForca\jogoDaForca\obj\Debug\net7.0\ref\jogoDaForca.dll
